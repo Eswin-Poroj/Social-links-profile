@@ -4,18 +4,18 @@ Esta es una solución al [desafío del perfil de enlaces sociales en Frontend Me
 
 ## Tabla de contenido
 
-- [Resumen](#Descripción general)
-- [El desafío](#El reto)
-- [Captura de pantalla](#captura de pantalla)
+- [Resumen](#descripcion-general)
+- [El desafío](#el-reto)
+- [Captura de pantalla](#captura-de-pantalla)
 - [Enlaces](#enlaces)
 - [Mi proceso](#mi-proceso)
-- [Construido con](#construido con)
-- [Lo que aprendí](#Que aprendí)
+- [Construido con](#construido-con)
+- [Lo que aprendí](#que-aprendí)
 - [Desarrollo continuo](#desarrollo-continuo)
 - [Autor](#autor)
 - [Agradecimientos](#agradecimientos)
 
-## Descripción general
+## Descripcion general
 
 El reto se trata de crear un espacio para poder subir los links necesarios, se usa para uso social.
 
